@@ -3,48 +3,48 @@
     "name": "Corded Drill Machine",
     "img": "https://i.ibb.co/Hnvpky4/2201-i211-010-S-m012-c13-drilling-machine-realistic-omposition-2.jpg",
     "description": "Electric power drill, 1050W with no-load speed of 2800rpm and grill bit diameter of 13mm, yota brand.",
-    "minimum order quantity": "25",
-    "available quantity": "1009",
-    "price (per unit price) $": "99"
+    "minimumOrderQuantity": "25",
+    "availableQuantity": "1009",
+    "price": "99"
   },
   {
     "name": "Demolition Hammer Drill",
     "img": "https://i.ibb.co/9hyx0wy/charlesdeluvio-k-P2-h-VDq-Ozk-unsplash.jpg",
     "description": "SDS Max chuck suitable for most common accessories.Class-leading 1010W motor delivers outstanding performance for light demolition, surface preparation or chiseling.Ergonomic and compact design maximizes control and offers easy access to confined spaces.",
-    "minimum order quantity": "50",
-    "available quantity": "9999",
-    "price (per unit price) $": "79"
+    "minimumOrderQuantity": "50",
+    "availableQuantity": "9999",
+    "price": "79"
   },
   {
     "name": "Cordedless Drill Machine",
     "img": "https://i.ibb.co/vLz1nP0/kumpan-electric-u-Fxb0-WD0waw-unsplash.jpg",
     "description": "Stanley SCD12S2-B5 Compact Drill is designed for lightweight applications and toning.Using a lithium-ion battery is 10.8 Volt type.Slide-in protected electronic protection system that protects the battery from overload.",
-    "minimum order quantity": "99",
-    "available quantity": "21009",
-    "price (per unit price) $": "199"
+    "minimumOrderQuantity": "99",
+    "availableQuantity": "21009",
+    "price": "199"
   },
   {
     "name": "Compact Drill Driver",
     "img": "https://i.ibb.co/qyXYKP6/m011t285-07may22-drill-gun-05.jpg",
     "description": "compact and lightweight design.15 position adjustable torque control.LED light for improved visibility",
-    "minimum order quantity": "10",
-    "available quantity": "500",
-    "price (per unit price) $": "269"
+    "minimumOrderQuantity": "10",
+    "availableQuantity": "500",
+    "price": "269"
   },
   {
     "name": "Max Chipping Hammer Drill",
     "img": "https://i.ibb.co/9NXmwGT/manik-roy-UGTrlvki-A-unsplash.jpg",
     "description": "SDS Max chuck suitable for most common accessories.Class-leading 1010W motor delivers outstanding performance for light demolition, surface preparation or chiseling.Ergonomic and compact design maximizes control and offers easy access to confined spaces.Large hammer mechanism delivers extreme durability and excellent concrete breaking performance.",
-    "minimum order quantity": "5",
-    "available quantity": "1022",
-    "price (per unit price) $": "399"
+    "minimumOrderQuantity": "5",
+    "availableQuantity": "1022",
+    "price": "399"
   },
   {
     "name": "Total electric Drill Machine",
     "img": "https://i.ibb.co/wNsZFqf/use-hammer-drill-drill-wall.jpg",
     "description": " Variable speed for different drilling.Forward and reverse rotation.Lock-on switch for continuous use.Soft grip for more comfortable hold.Hammer/Drilling function change.",
-    "minimum order quantity": "15",
-    "available quantity": "1209",
-    "price (per unit price) $": "85"
+    "minimumOrderQuantity": "15",
+    "availableQuantity": "1209",
+    "price": "85"
   }
 ]
